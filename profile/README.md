@@ -1,18 +1,18 @@
 # 🎮 Game Development Lab  
 
-Welcome to **Game Development Lab**, an independent research and development studio dedicated to creating innovative and immersive gaming experiences.  
+Welcome to **Game Development Lab**, an independent research and development studio dedicated to creating innovative and immersive gaming experiences across **mobile, desktop, and beyond**.  
 
 ## 🔹 About  
-Game Development Lab is a **dedicated space for game design, programming, and interactive media development**. With expertise in **game mechanics, pixel art, and audio engineering**, every project is crafted with precision and creativity.  
+Game Development Lab specializes in **game design, programming, and interactive media development**. With a focus on **game mechanics, AI-driven gameplay, and immersive audiovisual experiences**, each project is built to push creative and technical boundaries.  
 
 ## 🔹 Core Expertise  
-- **Game Development & Programming** – Engineered for performance, interactivity, and scalability.  
-- **Gameplay Design & Mechanics** – Focused on dynamic, engaging player experiences.  
-- **Visual & Pixel Art Design** – Crafted with detail to enhance artistic and aesthetic identity.  
-- **Sound Engineering & Composition** – Designed to create immersive atmospheres and interactive audio.  
+- **Game Development & Programming** – Engineered for performance, scalability, and platform adaptability.  
+- **Gameplay Systems & AI** – Designed to create dynamic and responsive player interactions.  
+- **Multi-Platform Development** – Optimized for mobile, desktop, and emerging gaming technologies.  
+- **Sound & Visual Design** – Focused on creating immersive atmospheres and interactive storytelling.  
 
-## 🔹 Research & Development  
-Game Development Lab is committed to **advancing game technology and interactive storytelling**, focusing on the intersection of **creativity, technology, and innovation**.  
+## 🔹 Research & Innovation  
+Committed to **advancing game technology**, Game Development Lab explores new approaches to **game AI, procedural generation, and interactive narratives**—bridging creativity with cutting-edge development.  
 
 🔗 **Explore:** [Game Development Lab on GitHub](https://github.com/Game-Development-Lab)  
 
@@ -20,6 +20,4 @@ Game Development Lab is committed to **advancing game technology and interactive
 📧 **Email:** [expresearchlab@gmail.com](mailto:expresearchlab@gmail.com)  
 🌍 **More Info:** [GitHub Organization](https://github.com/Game-Development-Lab)  
 
----  
  
-*"Innovating game development through creativity, precision, and technology."*  
